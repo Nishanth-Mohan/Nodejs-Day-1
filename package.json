@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-day-1",
+  "version": "1.0.0",
+  "description": "Nodejs day1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": " ",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Nisha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.1"
+  }
+}
